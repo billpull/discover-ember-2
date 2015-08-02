@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="17px" viewBox="0 0 18 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.1 (12002) - http://www.bohemiancoding.com/sketch -->
+    <title>plus-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Profile---following" sketch:type="MSArtboardGroup" transform="translate(-1099.000000, -276.000000)" fill="#6DAD82">
+            <g id="top-info" sketch:type="MSLayerGroup" transform="translate(-93.000000, 0.000000)">
+                <g id="follow-button" transform="translate(1168.000000, 266.000000)" sketch:type="MSShapeGroup">
+                    <path d="M34.34,17.16 L34.34,11.4674086 C34.34,10.7211414 33.7400616,10.125 33,10.125 C32.2547789,10.125 31.66,10.7260168 31.66,11.4674086 L31.66,17.16 L25.9674086,17.16 C25.2211414,17.16 24.625,17.7599384 24.625,18.5 C24.625,19.2452211 25.2260168,19.84 25.9674086,19.84 L31.66,19.84 L31.66,25.5325914 C31.66,26.2788586 32.2599384,26.875 33,26.875 C33.7452211,26.875 34.34,26.2739832 34.34,25.5325914 L34.34,19.84 L40.0325914,19.84 C40.7788586,19.84 41.375,19.2400616 41.375,18.5 C41.375,17.7547789 40.7739832,17.16 40.0325914,17.16 L34.34,17.16 Z" id="plus-icon"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

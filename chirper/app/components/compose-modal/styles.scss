@@ -1,0 +1,39 @@
+& {
+  width: 548px;
+  padding-top: 41px;
+}
+
+textarea {
+  resize: none;
+  min-height: 100px;
+  font-weight: 400;
+}
+
+h6 {
+  background: white;
+  border-bottom: 1px solid rgba(0,0,0,0.14);
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  color: #818C79;
+  padding: 11px;
+  font-size: 17px;
+  font-weight: 400;
+  text-align: center;
+}
+
+p.remaining-chars {
+  font-size: 16px;
+  color: #859389;
+  line-height: 22px;
+  float: right;
+  margin-top: 6px;
+  &.warning {
+    color: red;
+  }
+}
+
+button {
+  margin-top: 0;
+}

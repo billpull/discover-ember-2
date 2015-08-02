@@ -1,0 +1,8 @@
+{{#each sortedChirps as |chirp|}}
+	{{chirps-list/chirp-message chirp=chirp}}
+{{else}}
+	<div class="no-chirps">
+	  <div class="icon"></div>
+	  <p>There are no chirps to display.</p>
+	</div>
+{{/each}}

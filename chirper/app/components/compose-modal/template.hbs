@@ -1,0 +1,7 @@
+<h6>Compose Chirp</h6>
+
+{{textarea value=chirpText}}
+
+<button class="chirp" {{action "postChirp"}}>Chirp</button>
+
+<p class="remaining-chars {{if noCharsLeft 'warning'}}">{{remainingChars}}</p>

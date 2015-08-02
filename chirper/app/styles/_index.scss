@@ -1,0 +1,48 @@
+.landing-photo {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-image: url("/images/landing-photo.jpg");
+  background-size: cover;
+  background-position: center center;
+}
+
+.page-container.index {
+  margin-top: 200px;
+  width: 940px;
+
+  .text-wrapper {
+    float: left;
+  }
+
+  h1 {
+    font-size: 40px;
+    color: white;
+    line-height: 55px;
+    font-weight: 500;
+    margin-top: 30px;
+  }
+
+  p.tagline {
+    font-size: 19px;
+    color: white;
+    line-height: 27px;
+    margin-top: 20px;
+  }
+
+  .login-box {
+    background: white;
+    box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.21);
+    border-radius: 3px;
+    float: right;
+    padding: 20px;
+    width: 346px;
+    text-align: right;
+  }
+
+  button {
+    margin-top: 10px;
+  }
+}

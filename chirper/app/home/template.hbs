@@ -1,0 +1,11 @@
+<div class="page-container home-page">
+	<aside>
+		{{profile-glance user=session.currentUser}}
+		<button class="logout" {{action 'logout'}}>Log out</button>
+	</aside>
+
+	<main>
+		{{status-update openComposeModel=(action 'openComposeModal')}}
+		{{chirps-list chirps=model.chirps}}
+	</main>
+</div>

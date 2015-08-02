@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="19px" height="25px" viewBox="0 0 19 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.1 (12002) - http://www.bohemiancoding.com/sketch -->
+    <title>chirp-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Home" sketch:type="MSArtboardGroup" transform="translate(-1122.000000, -14.000000)" fill="#FFFFFF">
+            <g id="header" sketch:type="MSLayerGroup">
+                <g id="navigation" transform="translate(855.000000, 8.000000)" sketch:type="MSShapeGroup">
+                    <g id="chirp-button" transform="translate(255.000000, 0.000000)">
+                        <path d="M21.9322214,25.9309049 C24.3300634,24.7720409 26.1141149,20.3740626 26.1141149,15.125585 C26.1141149,8.99312504 23.6784914,4.02178398 20.6739976,4.02178398 C17.6695038,4.02178398 15.2338803,8.99312504 15.2338803,15.125585 C15.2338803,19.2982912 16.3615355,22.9334176 18.0287662,24.8306375 L18.0287662,24.8306375 L18.0160403,24.7882942 C18.0160403,24.7882942 18.4782988,25.2722993 18.7195779,25.0302967 C18.9608571,24.7882942 20.0958857,10.9448792 20.6194774,11.2130539 C21.03401,11.4253704 20.6072067,20.7316731 20.4114241,24.5992893 C20.1651129,27.3614276 20.2680843,32.9365041 20.692107,33.0156115 C21.0306867,33.0787783 21.6231258,28.5228394 21.9322214,25.9309049 Z" id="chirp-icon" transform="translate(20.673998, 18.519023) rotate(35.000000) translate(-20.673998, -18.519023) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
